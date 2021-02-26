@@ -8,7 +8,7 @@
 👨🏻‍💻 Atualmente cursando Bootcamp da Generation Brasil
        de Desenvolvedor Java Jr.
        
- 📍     I am from São Paulo / SP 
+  📍     I am from São Paulo / SP 
 
  **--**   **Sempre há espaço para novos desafios.** 🚀
 
