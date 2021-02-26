@@ -1,4 +1,4 @@
-### Hiiiiiiiii, Guys  👋
+<h1> Hiiiiiiiii, Guys  👋 </h1>
 <img align="right" width="260px" src="https://media.giphy.com/media/l0MYzoW2cZXWkyGFW/giphy.gif">
 
 
@@ -12,7 +12,7 @@
        
   📍     I am from São Paulo / SP 
   
-<h1 style="background-color:FF0000;">Sempre há espaço para novos desafios. 🚀</h1>
+<h3 style="background-color:FF0000;">Sempre há espaço para novos desafios. 🚀</h3>
  
 
 
