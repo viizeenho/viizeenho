@@ -1,6 +1,8 @@
 ### Hi, Guys  👋
 
 
+
+
 👦🏽     Eu sou Vinicius Menezes
 
 🎓     Formado em Ciencias da Computação
@@ -20,6 +22,10 @@
        🗄  MySQL
        🔧 Visual Studio Code | NetBeans | Eclipse | Git
        🌅 Canva | Adobe Photoshop
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/viizeenho/)](https://https://www.linkedin.com/in/viizeenho/) 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/papodedev/)](https://www.instagram.com/papodedev/)
+[![Gmail Badge](https://img.shields.io/badge/-diego.schell.f@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:viizeenho@gmail.com)](mailto:viizeenho@gmail.com)
 
 
 <!--
