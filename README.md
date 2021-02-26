@@ -1,5 +1,5 @@
 ### Hiiiiiiiii, Guys  👋
-<img align="right" width="260px" src="66833e07d6fb9eb5d724e47d0c814285.gif">
+<img align="right" width="260px" src="https://media.giphy.com/media/l0MYzoW2cZXWkyGFW/giphy.gif">
 
 
 
