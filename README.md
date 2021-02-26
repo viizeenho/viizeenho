@@ -1,14 +1,22 @@
 ### Olá sou Vinicius Menezes  👋
 
 
+
 🎓     Formado em Ciencias da Computação
 
 👨🏻‍💻 Atualmente cursando Bootcamp da Generation Brasil
        de Desenvolvedor Java Jr.
 
-    Sempre há espaço para novos desafios.
+ --   Sempre há espaço para novos desafios. 🚀
 
 
+⚙️ Tecnologias
+
+       💻 Java | SpringBoot | Angular
+       🌐 HTML | CSS | JavaScript | Bootstrap
+       🗄  MySQL
+       🔧 Visual Studio Code | NetBeans | Eclipse | Git
+       🌅 Canva | Adobe Photoshop
 
 
 <!--
