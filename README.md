@@ -1,13 +1,16 @@
-### Olá sou Vinicius Menezes  👋
+### Hi, Guys  👋
 
 
+👦🏽     Eu sou Vinicius Menezes
 
 🎓     Formado em Ciencias da Computação
 
 👨🏻‍💻 Atualmente cursando Bootcamp da Generation Brasil
        de Desenvolvedor Java Jr.
+       
+ 📍     I am from São Paulo / SP 
 
- --   Sempre há espaço para novos desafios. 🚀
+ **--**   **Sempre há espaço para novos desafios.** 🚀
 
 
 ⚙️ Tecnologias
